@@ -22,6 +22,7 @@ Ingredients
 Steps
 -----
 1. Place the cinnamon stick, cumin, paprika and oregano in a pestle and mortar. Bash and grind until the cinnamon is in very small flakes.
+![grind the spices](imgs-beef-brisket-chili/step-1-grind-spices.jpg "grind the spices")
 2. Score the beef and rub the spice mix into the cuts.
 3. Season the beef and drizzle with olive oil.  Brown in a hot pan.
 4. Finely slice the onion and fry in a little olive oil together with the chillies, finely sliced.  You can control the heat of your chili by deseeding some of the chillies.
