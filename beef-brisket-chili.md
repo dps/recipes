@@ -1,8 +1,6 @@
 Beef brisket chili
 ==================
-
-The mother of all chilis
-------------------------
+![The mother of all chilis](images-beef-brisket-chili/main.jpg "The mother of all chilis")
 
 Ingredients
 -----------
