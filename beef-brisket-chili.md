@@ -24,8 +24,11 @@ Steps
 1. Place the cinnamon stick, cumin, paprika and oregano in a pestle and mortar. Bash and grind until the cinnamon is in very small flakes.
 ![grind the spices](imgs-beef-brisket-chili/step-1-grind-spices.jpg "grind the spices")
 2. Score the beef and rub the spice mix into the cuts.
+![score the beef](imgs-beef-brisket-chili/step-2-score-beef.jpg "score the beef")
 3. Season the beef and drizzle with olive oil.  Brown in a hot pan.
+![brown in a hot pan](imgs-beef-brisket-chili/step-3-brown-beef.jpg "brown in hot pan")
 4. Finely slice the onion and fry in a little olive oil together with the chillies, finely sliced.  You can control the heat of your chili by deseeding some of the chillies.
+![fry the onion and chillies](imgs-beef-brisket-chili/step-4-fry-onion.jpg "fry the onion and chillies")
 5. Add the browned brisket to the pan with the onions and chillies and fry on a low heat.
 6. Place the bell peppers, roughly sliced, the bay leaves and chopped tomatoes in a large covered pot.  Bring to the boil and then add the beef onions and chillies.
 7. Bring back to the boil, cover and allow to simmer on a low heat for 4 hours.
