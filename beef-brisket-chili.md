@@ -30,9 +30,11 @@ Steps
 4. Finely slice the onion and fry in a little olive oil together with the chillies, finely sliced.  You can control the heat of your chili by deseeding some of the chillies.
 ![fry the onion and chillies](imgs-beef-brisket-chili/step-4-fry-onion.jpg "fry the onion and chillies")
 5. Add the browned brisket to the pan with the onions and chillies and fry on a low heat.
-6. Place the bell peppers, roughly sliced, the bay leaves and chopped tomatoes in a large covered pot.  Bring to the boil and then add the beef onions and chillies.
+6. Place the bell peppers, roughly sliced, the bay leaves and chopped tomatoes in a large covered pot.  Bring to the boil and then add the beef, onions and chillies.
+![combine](imgs-beef-brisket-chili/step-6-combine.jpg "combine")
 7. Bring back to the boil, cover and allow to simmer on a low heat for 4 hours.
 8. Remove the brisket from the pot, place on a large plate and use two forks to pull the beef apart into individual pieces.
+![pull](imgs-beef-brisket-chili/step-8-pull.jpg "pull the beef apart with two forks")
 9. Remove the bay leaves and add the pulled beef and coriander back to the pot, together with the kidney beans.
 10. Bring back to the boil and simmer gently for a further 15 - 20 mins.
 
