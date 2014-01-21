@@ -8,5 +8,5 @@ def test_validate_recipes():
       data = ''.join(rf.readlines())
       res = parse_recipe_markdown(data, {}, 'http://test/')
       if res.has_key('error'):
-        print '%s %s' % (filename, res['error'])
+        print 'Error: %s %s' % (filename, res['error'])
       assert not res.has_key('error')
