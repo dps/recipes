@@ -23,4 +23,4 @@ Steps
 
 Serving
 -------
-Remaining stock/wine can be reduced to a gravy and served over the lamb on a bed of the vegetables.  The lamb will be so tender that it will come easily away from the bone.  Can be served family style at the table with tongs or similar and each diner can serve their own portion.
+Remaining stock/wine can be reduced to a gravy and served over the lamb on a bed of the vegetables.  The lamb will be so tender that it will come easily away from the bone.  Can be served family style at the table with tongs or similar and each diner can tear off their own portion.
