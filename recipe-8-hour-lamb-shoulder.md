@@ -1,5 +1,6 @@
 8 hour lamb shoulder
 ====================
+![8 hour lamb shoulder](imgs-8-hour-lamb-shoulder/main.jpg "8 hour lamb shoulder")
 
 Delicious melt in the mouth lamb dish.
 

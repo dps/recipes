@@ -2,6 +2,8 @@ Beef brisket chili
 ==================
 ![The mother of all chilis](imgs-beef-brisket-chili/main.jpg "The mother of all chilis")
 
+The mother of all chilis.
+
 Serves
 ------
 6
