@@ -1,5 +1,6 @@
 Northern irish vegetable soup
 =============================
+![Vegetable Soup](imgs-northern-irish-vegetable-soup/main.jpg "Vegetable Soup")
 
 This recipe is apparently unique to Northern Ireland and uses soup/herb celery which is hard to find outside the area, but regular table celery can be substituted (including the leaves).
 
