@@ -13,6 +13,7 @@ Ingredients
 - 3 lbs beef brisket
 - 2 red onions
 - 4 jalapeno chillies
+- 1 habanero chilli
 - 1 large cinnamon stick
 - 1 tbsp ground cumin
 - 1 tbsp paprika
@@ -20,8 +21,8 @@ Ingredients
 - 2 fresh bay leaves
 - 2 red bell peppers
 - 2 green bell peppers
-- 800g tin chopped tomatoes
-- 400g tin kidney beans
+- 800g chopped tomatoes
+- 400g kidney beans
 - 400ml beef stock
 - 1/2 bunch coriander
 
