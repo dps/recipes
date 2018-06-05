@@ -2,5 +2,5 @@ language: python
 python:
   - "2.7"
 install:
-  - pip install -r validate/requirements.txt --use-mirrors
+  - pip install -r validate/requirements.txt
 script: nosetests validate/
