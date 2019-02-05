@@ -1,6 +1,6 @@
 Chicken Dhansak
 ======================
-![Chicken Dhansak](imgs-chicken-dhansak/chicken_dhandask.jpg "Chicken Dhansak")
+![Chicken Dhansak](imgs-chicken-dhansak/chicken_dhansak.jpg "Chicken Dhansak")
 Wonderful spicy persian/gujarati stew.
 
 Ingredients
