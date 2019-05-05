@@ -1,6 +1,6 @@
 Sous vide BBQ pork ribs
 ======================
-![Sous vide pork ribs](imgs-pork-ribs/pork_ribs.jpg "BBQ Pork Ribs")
+![Sous vide pork ribs](imgs-sous-vide-pork-ribs/IMG_3294.jpg "BBQ Pork Ribs")
 My best barbecue ribs recipe
 
 Ingredients
@@ -24,6 +24,3 @@ Steps
 6. Remove ribs from sous vide pouches.
 7. Salt w/ 1/2 tablespoon kosher salt.
 8. Smoke on BBQ low heat for 30 mins.
-
-Serving
--------
