@@ -17,6 +17,7 @@ Ingredients
 - 600ml chicken stock
 - 150g dried red split lentils, rinsed and drained
 - 2 bay leaves
+- bunch coriander
 
 Steps
 -----
