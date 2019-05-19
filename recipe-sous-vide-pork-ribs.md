@@ -13,14 +13,16 @@ Ingredients
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon onion powder
 - 2 racks baby back pork ribs
+- hickory liquid smoke
+- BBQ sauce
 
 Steps
 -----
 1. Combine the brown sugar, chili powder, 1 teaspoon black pepper, the oregano, cayenne, garlic powder and onion powder in a small bowl.
 2. Rub the mixture on both sides of the ribs.
-3. Seal sous-vide and refridgerate overnight
-4. Cook sous-vide at 63 &deg; C for 4 hours.
-5. Prepare a (hickory) wood chip smoke packet in grill.
-6. Remove ribs from sous vide pouches.
-7. Salt w/ 1/2 tablespoon kosher salt.
-8. Smoke on BBQ low heat for 30 mins.
+3. Seal sous-vide, add 4 drops of liquid smoke to each pouch
+4. Cook sous-vide at 63 &deg; C for 20 hours.
+5. Remove pouches from sous vide and place in ice-water, cool until melted fat has solidified.
+6. Remove ribs from sous vide pouches and brush with BBQ sauce all over, wrap in foil.
+7. Continue brushing with sauce every 20 - 30 mins, ~4 times total.
+8. Grill on BBQ high heat until internal temperature exceeds 64 &deg; C. Continue to brush with BBQ sauce while grilling. A beautifully charred bark should develop.
