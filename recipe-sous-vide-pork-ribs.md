@@ -1,6 +1,6 @@
 Sous vide BBQ pork ribs
 ======================
-![Sous vide pork ribs](imgs-sous-vide-pork-ribs/IMG_3320.jpg "BBQ Pork Ribs")
+![Sous vide pork ribs](imgs-sous-vide-pork-ribs/sous-vide-ribs.jpg "BBQ Pork Ribs")
 My best barbecue ribs recipe
 
 Ingredients
